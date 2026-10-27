@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/bp/BP_Cubo.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/bp/BP_NPC.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/bp/BP_Timeline.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/bp/BP_Spline.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/BJ/SAGZELJIWGIZY01VR6118F.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Sounds/discord-notification.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Jumping__1__PhysicsAsset.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1001_Diffuse.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1001_Glossiness.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1001_Specular.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1002_Diffuse.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1002_Glossiness.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1002_Normal.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Jumping__1__Skeleton.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1001_Normal.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1002_Emissive.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_body.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_1002_Specular.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Ch15_body1.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Jumping__1_.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Jumping__1__Anim.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Animation/AnimBP_Test.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Characters/BP_CH.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Crouched_Walking.uasset",
+				"C:/Users/agapi/OneDrive/Documentos/Unreal Projects/lAB61/Content/Ani/Injured_Idle.uasset"
+			]
+		}
+	]
+}
