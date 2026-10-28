@@ -1,11 +1,12 @@
-[14488:18520:1007/103329.194:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[14488:6436:1007/103329.273:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[14488:18520:1007/103329.316:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[14488:18520:1007/103520.898:WARNING:sad_tab.cc(255)] Tab Killed: https://editor.unrealengine.com/
-[14488:18520:1007/103520.903:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[14488:18520:1007/103520.903:ERROR:gpu_process_host.cc(1007)] GPU process exited unexpectedly: exit_code=1
-[14488:18520:1007/103520.904:WARNING:gpu_process_host.cc(1441)] The GPU process has crashed 1 time(s)
-[14488:18520:1007/103521.601:WARNING:gpu_process_host.cc(1029)] Reinitialized the GPU process after a crash. The reported initialization time was 311 ms
-[10416:14672:1007/103548.251:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
-[14488:18520:1007/112103.657:ERROR:device_event_log_impl.cc(196)] [11:21:03.566] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[14488:18520:1007/122248.622:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[31780:11552:1027/213938.133:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31780:11552:1027/213939.125:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31780:11968:1027/214000.889:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31780:11968:1027/214000.891:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31780:11968:1027/214000.896:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31780:11968:1027/214000.900:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\agapi\Documents\GitHub\Lab6VR\lAB61\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31780:18312:1027/214001.790:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[31780:18312:1027/214001.792:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13596:19932:1027/214003.784:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A5839A5621A2CE0AA974988B8873AA82 will be ignored
+[31780:32072:1027/214005.344:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31780:32072:1027/214006.411:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[31780:11552:1027/232217.337:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
